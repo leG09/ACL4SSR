@@ -3,5 +3,7 @@ DOMAIN-SUFFIX,pec.com.cn
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,190607.xyz
-DOMAIN-SUFFIX,1024.one
 DOMAIN,mesjenkins.pec.com.cn
+# 酒吧 西瓜
+DOMAIN-SUFFIX,1024.one
+DOMAIN-SUFFIX,1024.name
