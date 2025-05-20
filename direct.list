@@ -4,6 +4,10 @@ DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,190607.xyz
 DOMAIN,mesjenkins.pec.com.cn
-# 酒吧 西瓜
-DOMAIN-SUFFIX,1024.one
-DOMAIN-SUFFIX,1024.name
+#xigua
+DOMAIN,mr.chilledmelon.com
+DOMAIN,daigua.chilledmelon.com
+DOMAIN,sjc.chilledmelon.com
+DOMAIN,cloudf.chilledmelon.com
+#奥迪
+IP-CIDR,202.61.195.252/32
